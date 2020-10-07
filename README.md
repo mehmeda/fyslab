@@ -1,3 +1,3 @@
 # fyslab
 
-Just text files with a lot numbers and a Jupyter notebook.
+Just lots of numbers and a Jupyter notebook.
